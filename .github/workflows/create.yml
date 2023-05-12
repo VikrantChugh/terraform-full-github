@@ -1,9 +1,6 @@
 name: Terraform-Deploy-EC2
 
 on:
-
-  
-
   workflow_dispatch:
 
 permissions:
