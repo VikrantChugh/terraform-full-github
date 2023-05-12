@@ -43,9 +43,7 @@ jobs:
 
       - name: Terraform Init
 
-        run: |
-
-          cd deployEC2
+        run:
 
           terraform init
 
